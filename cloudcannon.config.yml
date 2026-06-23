@@ -489,3 +489,5 @@ _snippets:
           redo: true
           removeformat: true
           copyformatting: true
+
+bookshop_component_library: "component-library"
